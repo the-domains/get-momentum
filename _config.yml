@@ -6,9 +6,9 @@ color:
   saturation: 0.41773385903798044
   rhythmicContrast: 0.8305148568470031
   brandColors:
-    - '#FFFFFF'
-    - '#706B4F'
-    - '#789E9D'
-    - '#8A866E'
-    - '#C6C5B9'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: 'Get Momentum '

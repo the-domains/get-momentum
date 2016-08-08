@@ -1,4 +1,3 @@
-layout_spectrum: 0.3559626080095768
 typography_spectrum: 0.9210135021712631
 color:
   brandStrength: 0.8225698224268854
@@ -11,5 +10,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.3559626080095768
 name: 'Get Momentum '
 title: Essential Oils
+description: 'Pure, Simple, Powerful'
